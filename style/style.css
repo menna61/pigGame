@@ -169,3 +169,11 @@ main {
 .hidden {
   display: none;
 }
+
+.winner0{
+  margin-bottom: auto;
+  font-size: 40px;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+}
